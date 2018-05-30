@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Иван Чернушкин](https://up.htmlacademy.ru/javascript/14/user/392633).
-* Наставник: `Неизвестно`.
+* Наставник: `Никита Пиковец`.
 
 ---
 
